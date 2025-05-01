@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-lamin_utils-green.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-lamin__utils-green.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/lamin_utils.svg)](https://anaconda.org/conda-forge/lamin_utils) |
 
 Installing lamin_utils
 ======================
